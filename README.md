@@ -1,6 +1,8 @@
-<picture>
+<!-- <picture>
  <img alt="Banner Image" src="/Users/baileyfiedorowicz/Downloads/github-header-image.png">
-</picture>
+</picture> -->
+
+![Header](./github-header-image.png)
 
 <!--
 **SemperFido95/SemperFido95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
